@@ -1,6 +1,6 @@
 {
   "name": "9th-sfg--forum",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "9th Special Forces Group Arma community forum. Follow this link to see more: http://www.9thsfg.com/forum. PHP version: 5.6.0",
   "main": "gulpfile.js",
   "scripts": {
